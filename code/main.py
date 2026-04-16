@@ -440,7 +440,7 @@ def main():
     set_seed(SEED)
     print(run_id)
 
-    path_save_base = f"./log/{dataset}/newloss{run_id}"
+    path_save_base = f"./log/{dataset}/Model_loss{run_id}"
     path_save_model_base = f"../Model_save/{dataset}/s{run_id}"
     ensure_dir(path_save_base)
     ensure_dir(path_save_model_base)

@@ -72,7 +72,7 @@ Run the script from the `code/` directory because the script uses relative paths
 
 ```bash
 cd code
-python train.py
+python main.py
 ```
 
 

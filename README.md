@@ -1,4 +1,4 @@
-# BoxGCN
+# GateBoxGCN
 
 This repository contains a PyTorch implementation of `GateBoxGCN` for implicit-feedback recommendation.
 

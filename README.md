@@ -101,7 +101,7 @@ Every `step` epochs, the script:
 
 1. Saves the current model checkpoint.
 2. Computes a full user-item prediction matrix.
-3. Evaluates top-20 recommendation quality on the test set.
+3. Evaluates top-20 recommendation quality.
 
 
 ## Early Stopping

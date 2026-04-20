@@ -105,7 +105,7 @@ Every `step` epochs, the script:
 
 
 ## Early Stopping
-If recall does not improve for 100 epochs worth of evaluation intervals, training stops:
+If recall does not improve for 100 epochs worth of evaluation intervals, stops:
 
 With the default `step = 3`, `stop1` increases by 3 after each non-improving evaluation.
 

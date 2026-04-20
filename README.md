@@ -5,7 +5,7 @@ This repository contains a PyTorch implementation of `GateBoxGCN` for implicit-f
 The main training entry point is:
 
 ```bash
-code/train.py
+code/main.py
 ```
 
 ## Project Structure

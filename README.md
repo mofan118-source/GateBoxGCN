@@ -54,7 +54,7 @@ Use a machine with an NVIDIA GPU. To run on another GPU, change `CUDA_VISIBLE_DE
 The training script expects preprocessed `.npy` files under:
 
 ```text
-data/Amazon_Pet_Supplies/datanpy/
+data/dataset/datanpy/
 ```
 
 Required files:

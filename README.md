@@ -112,4 +112,3 @@ With the default `step = 3`, `stop1` increases by 3 after each non-improving eva
 ## Important Notes
 - Run from `code/`, not the repository root.
 - The script assumes CUDA is available.
-- `testing_loader_loss` and `val_loader_loss` are constructed but not used in the current training loop.

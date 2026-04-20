@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch implementation of `GateBoxGCN` for implicit-feedback recommendation.
 
-The main training entry point is:
+The main execution entry point is:
 
 ```bash
 code/main.py

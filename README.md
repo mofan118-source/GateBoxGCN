@@ -11,7 +11,7 @@ code/main.py
 ## Project Structure
 
 ```text
-BoxGCN/
+GateBoxGCN/
 ├── code/
 │   ├── main.py
 │   ├── data_utils.py

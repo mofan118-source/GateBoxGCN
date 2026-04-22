@@ -21,7 +21,7 @@ GateBoxGCN/
 │       ├── train.txt
 │       ├── val.txt
 │       ├── test.txt
-│       ├── data2npy.py
+│       └── data2npy.py
 └── Model_save/
 ```
 

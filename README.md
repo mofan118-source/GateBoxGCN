@@ -22,11 +22,6 @@ GateBoxGCN/
 │       ├── val.txt
 │       ├── test.txt
 │       ├── data2npy.py
-│       └── datanpy/
-│           ├── training_set.npy
-│           ├── testing_set.npy
-│           ├── val_set.npy
-│           └── user_rating_set_all.npy
 └── Model_save/
 ```
 
@@ -63,7 +58,6 @@ Required files:
 training_set.npy
 testing_set.npy
 val_set.npy
-user_rating_set_all.npy #consists of training set and validation set
 ```
 
 ## Run Training

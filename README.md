@@ -81,7 +81,8 @@ offset embedding: embed_user_dim2, embed_item_dim2
 
 For each forward pass, the model performs k graph propagation layers on the user-item bipartite graph, averages embeddings from all layers, and scores user-item pairs with a box-intersection style function.
 
-Training uses BPR-style pairwise optimization:
+Training uses BPR-style pairwise optimization. To keep the model simple and lightweight, the model does not introduce an
+additional loss function and solely adopt the BPR loss:
 
 ```text
 loss = BPR loss + L2 regularization
